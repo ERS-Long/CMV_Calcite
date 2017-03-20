@@ -1,7 +1,16 @@
 html, body {
-    height: 300px;
+    height: 330px;
     margin: 0;
     padding: 0;
+}
+
+.calcite-map .calcite-map-absolute,
+.calcite-map.calcite-map-absolute {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 360px;
+    left: 0
 }
 
 /* logo */
