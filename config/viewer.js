@@ -503,9 +503,9 @@ define([
                 }
             },
 
-            search: {
+            tim_search: {
                 include: true,
-                id: 'search',
+                id: 'tim_search',
                 type: 'titlePane',
                 path: 'widgets/Search',
                 canFloat: false,
